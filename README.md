@@ -1,2 +1,2 @@
 # Lab-Sheet:2
-Interactive Image Gallary
+Attractive Image Gallary
